@@ -1,1 +1,1 @@
-The current project is coding a recipe website. The skills I have demonstrated were HTML creating links within webpages, adding images, creating unordered and ordered lists, all while incorporating git workflow.
+Creating an amazing recipe page to showcase HTML & CSS skills. 
